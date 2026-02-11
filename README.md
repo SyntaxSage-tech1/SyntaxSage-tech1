@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Bonface]
 
-<!--
-**SyntaxSage-tech1/SyntaxSage-tech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [programming at Mahanaim college].
+- I'm interested in [programming, web development, and data science].
+- I'm looking to collaborate on [friendly open source projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Python, JavaScript, HTML/CSS, C++]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- I currently have no ongoing project 
+
+## How to Reach Me
+- Email: [kinyanjuibonface23@gmail.com]
+- LinkedIn: [https://github.com/SyntaxSage-tech1]
