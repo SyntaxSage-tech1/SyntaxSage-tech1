@@ -37,7 +37,8 @@ This semester I want to become a **confident** programmer, stay *consistent*, pr
 | Tool      | Purpose                          | Link |
 |-----------|----------------------------------|------|
 | Git       | Version control                  | https://git-scm.com |
-| GitHub    | Hosting and sharing repositories | https://github.com |
+| GitHub  | Hosting and sharing repositories | https://github.com |
+|Visual Studio Code|code editor for writing |https://code.visualstudio.com/|
 
 ---
 
