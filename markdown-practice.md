@@ -43,10 +43,11 @@ This semester I want to become a **confident** programmer, stay *consistent*, pr
 
 ## -Task List
 
-- [x] Install Git
-- [x] Create a GitHub account
-- [ ] Practice making commits
-- [ ] Build a complete Python project
+- [x] -profile-readme
+- [x] -github-pages
+- [x] -markdown-basics
+- [ ] -team-collaboration
+- [ ] -issues-and-project
 
 ---
 
